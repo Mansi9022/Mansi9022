@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mansiarbale@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://mansi9022.github.io/simple-portfolio/</h3>
 <p align="left">
 </p>
 
