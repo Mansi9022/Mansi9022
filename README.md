@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi9022" alt="mansi9022" /></a> </p>
 
-- 🔭 I’m currently working on Kids zone <a href="https://mansi9022.github.io/KidsZone-website/">
+- 🔭 I’m currently working on [Kids zone] <a href="https://mansi9022.github.io/KidsZone-website/">
 
 - 🌱 I’m currently learning **Backend**
 
